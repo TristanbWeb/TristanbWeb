@@ -1,4 +1,4 @@
-# Tristab Web
+# Tristanb Web
 
 I'm Tristan from France, living in France, Front-end developper and Wordpress Former, I create websites and I train people on wordpress.
 
